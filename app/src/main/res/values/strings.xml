@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LatihanLima</string>
+    <string-array name="data_list">
+        <item>Satu</item>
+        <item>Dua</item>
+        <item>Tiga</item>
+        <item>Empat</item>
+        <item>Lima</item>
+        <item>Enam</item>
+        <item>Tujuh</item>
+        <item>Delapan</item>
+    </string-array>
+</resources>
